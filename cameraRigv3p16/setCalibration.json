@@ -1,0 +1,7 @@
+{
+  "/minYSafe": {"value": 5},
+  "/maxZSafe": {"value": 2},
+  "/minXSafe": {"value": 5},
+  "/maxXSafe": {"value": 5},
+  "/maxYSafe": {"value": 5}
+}
